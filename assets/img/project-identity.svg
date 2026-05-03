@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="630" viewBox="0 0 980 630">
+  <rect width="980" height="630" fill="#f4f2ee"/>
+  <rect x="48" y="50" width="382" height="238" fill="#050505"/>
+  <rect x="502" y="50" width="166" height="166" fill="#f2702a"/>
+  <rect x="714" y="50" width="166" height="166" fill="#8fcfc1"/>
+  <rect x="502" y="266" width="378" height="238" fill="#fff" stroke="#050505" stroke-width="4"/>
+  <path d="M76 364h350M76 424h262M76 484h310" stroke="#050505" stroke-width="26"/>
+  <text x="82" y="216" font-family="Arial Narrow, Arial, sans-serif" font-size="156" font-weight="900" fill="#fff">AG</text>
+  <path d="M552 330h276M552 382h230M552 434h154" stroke="#050505" stroke-width="20"/>
+</svg>

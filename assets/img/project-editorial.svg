@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="630" viewBox="0 0 980 630">
+  <rect width="980" height="630" fill="#fff"/>
+  <rect x="72" y="64" width="392" height="500" fill="#f4f2ee" stroke="#050505" stroke-width="4"/>
+  <rect x="516" y="64" width="392" height="500" fill="#050505" stroke="#050505" stroke-width="4"/>
+  <rect x="110" y="112" width="316" height="176" fill="#ee7aa4"/>
+  <path d="M110 350h290M110 402h228M110 454h268" stroke="#050505" stroke-width="22"/>
+  <text x="552" y="236" font-family="Arial Narrow, Arial, sans-serif" font-size="118" font-weight="900" fill="#f7d84b">SALE</text>
+  <text x="552" y="356" font-family="Arial Narrow, Arial, sans-serif" font-size="118" font-weight="900" fill="#8fcfc1">STORY</text>
+  <path d="M556 454h252" stroke="#fff" stroke-width="24"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="630" viewBox="0 0 980 630">
+  <rect width="980" height="630" fill="#ffffff"/>
+  <rect x="50" y="50" width="264" height="470" fill="#4b79ff" stroke="#050505" stroke-width="4"/>
+  <rect x="358" y="50" width="264" height="470" fill="#f7d84b" stroke="#050505" stroke-width="4"/>
+  <rect x="666" y="50" width="264" height="470" fill="#ee7aa4" stroke="#050505" stroke-width="4"/>
+  <text x="78" y="196" font-family="Arial Narrow, Arial, sans-serif" font-size="100" font-weight="900" fill="#fff">GO</text>
+  <text x="386" y="308" font-family="Arial Narrow, Arial, sans-serif" font-size="106" font-weight="900" fill="#050505">MAKE</text>
+  <text x="690" y="420" font-family="Arial Narrow, Arial, sans-serif" font-size="98" font-weight="900" fill="#050505">LOUD</text>
+  <path d="M50 562h880" stroke="#050505" stroke-width="16"/>
+</svg>

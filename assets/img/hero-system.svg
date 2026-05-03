@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <rect width="1200" height="760" fill="#fff"/>
+  <path d="M0 152h1200M0 304h1200M0 456h1200M0 608h1200M200 0v760M400 0v760M600 0v760M800 0v760M1000 0v760" stroke="#050505" stroke-opacity=".12" stroke-width="3"/>
+  <rect x="55" y="52" width="462" height="274" fill="#f2702a" stroke="#050505" stroke-width="5"/>
+  <rect x="652" y="86" width="420" height="540" fill="#8fcfc1" stroke="#050505" stroke-width="5"/>
+  <rect x="104" y="378" width="430" height="240" fill="#f7d84b" stroke="#050505" stroke-width="5"/>
+  <path d="M720 182h276M720 242h276M720 302h276M720 362h170" stroke="#050505" stroke-width="16"/>
+  <path d="M150 120h230v54H150zM150 206h310v54H150z" fill="#050505"/>
+  <path d="M150 450h120v112H150zM306 450h162v112H306z" fill="#fff" stroke="#050505" stroke-width="5"/>
+  <text x="58" y="706" font-family="Arial Narrow, Arial, sans-serif" font-size="86" font-weight="900" fill="#050505">IDENTITY THAT MOVES</text>
+</svg>
