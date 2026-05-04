@@ -19,6 +19,8 @@ EDITING_GUIDE.md        本说明
 
 日常修改优先改 `index.html`。只有要调整视觉风格时再改 `assets/css/styles.css`。
 
+重要：`index.html` 必须保持这个文件名和纯文本 HTML 格式。不要用 macOS TextEdit 的富文本模式保存网页文件，否则可能生成 `index.rtfd` 文件夹，并删除真正的 `index.html`，GitHub Pages 会因此显示 404。建议使用 VS Code、Cursor、Sublime Text，或把 TextEdit 设置为纯文本模式后再编辑。
+
 ## 2. 修改网站标题和搜索摘要
 
 在 `index.html` 顶部 `<head>` 中修改：
