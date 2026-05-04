@@ -1,10 +1,10 @@
 # Amber Grafic
 
-Static GitHub Pages portfolio site for a graphic designer focused on brand design and marketing.
+Static GitHub Pages portfolio site for a designer and illustrator.
 
 ## Edit points
 
-- Replace placeholder project titles and descriptions in `index.html`.
+- Replace selected project titles and descriptions in `index.html`.
 - Replace the SVG artwork in `assets/img/` with final portfolio images when ready.
 - Update the contact email in the footer before launch.
 - For a full manual editing guide, see `EDITING_GUIDE.md`.
